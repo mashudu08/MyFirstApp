@@ -29,7 +29,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@id/germany_button"
-        android:text="Time in India"
+        android:text="India"
         android:onClick="onClickIndia"
         android:id="@+id/india_button"/>
 
